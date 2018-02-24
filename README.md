@@ -9,9 +9,9 @@ How to run ?
 
 open terminal and navigate to the project directory and do a ``npm install``
 
-Once all the dependencies are downloaded , just run npm run webpack which will generate the destination
+Once all the dependencies are downloaded , just run ``npm run webpack`` which will generate the destination
 
 Navigate to dist folder to find the output files.
 
-Open index.html from the root directory of project
+Open ``index.html`` from the root directory of project
 
